@@ -15,4 +15,4 @@
 - анимации и трансформации средствами CSS
 - организация файловой структуры по БЭМ (Nested)
 
-**[Ссылка на проект]([https://nataliekalinkina.github.io/how-to-learn/])**
+**[Ссылка на проект](https://nataliekalinkina.github.io/how-to-learn/)**
